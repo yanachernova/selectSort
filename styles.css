@@ -1,0 +1,20 @@
+body{
+    background-color: green;
+    font-family: 'Inria Serif', serif;
+}
+
+#myspan{
+    font-size: 20px;
+}
+.card {
+    width: 100px;
+    display: inline-block;
+}
+
+.redColor{
+    color: red;
+}
+
+.blackColor{
+    color: black;
+}
